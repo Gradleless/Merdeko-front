@@ -18,9 +18,9 @@ To build a redistributable, production mode package, use `wails build`.
 
 ### Home page
 
-[![Home page](https://github.com/Mavenless/Merdeko-front/home.mp4)](https://github.com/Mavenless/Merdeko-front/home.mp4)
+[![Home page](https://github.com/Mavenless/Merdeko-front/blob/5290b1bd359566d6e401397292f07b8a6f04b398/video/home.mp4)](https://github.com/Mavenless/Merdeko-front/blob/5290b1bd359566d6e401397292f07b8a6f04b398/video/home.mp4)
 
 ### Game page
 
-[![Game page](https://github.com/Mavenless/Merdeko-front/game.mp4)](https://github.com/Mavenless/Merdeko-front/game.mp4)
+[![Game page](https://github.com/Mavenless/Merdeko-front/blob/5290b1bd359566d6e401397292f07b8a6f04b398/video/game.mp4)](https://github.com/Mavenless/Merdeko-front/blob/5290b1bd359566d6e401397292f07b8a6f04b398/video/game.mp4)
 
