@@ -13,3 +13,14 @@ browser and connect to your application.
 ## Building
 
 To build a redistributable, production mode package, use `wails build`.
+
+# Merdeko
+
+### Home page
+
+[![Home page](https://github.com/Mavenless/Merdeko-front/home.mp4)](https://github.com/Mavenless/Merdeko-front/home.mp4)
+
+### Game page
+
+[![Game page](https://github.com/Mavenless/Merdeko-front/game.mp4)](https://github.com/Mavenless/Merdeko-front/game.mp4)
+
