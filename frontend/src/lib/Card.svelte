@@ -13,7 +13,7 @@
 </script>
 
 
-    <div class="w-1/4" role="button" tabindex="0" on:click={() => { $previousPage = $currentPage ; $currentPage = 'Game'; $game = "ff" }  } on:keydown={() => {}} in:scale>
+    <div class="w-64" role="button" tabindex="0" on:click={() => { $previousPage = $currentPage ; $currentPage = 'Game'; $game = "ff" }  } on:keydown={() => {}} in:scale>
         <div class="card p-4 rounded-lg bg-panel">
             <img src="https://placehold.co/250x350" alt="" class="rounded-lg mb-4">
             <h3 class="text-lg font-semibold mb-2">League of Legends</h3>
