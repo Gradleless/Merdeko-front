@@ -4,3 +4,5 @@ build/
 .DS_Store
 frontend/package-lock.json
 frontend/dist/*
+frontend/dist/assets/index.css
+frontend/dist/assets/index.js
